@@ -1,0 +1,7 @@
+C:\Users\abdul\source\repos\ConsoleAppAssignment3\ConsoleAppAssignment3\bin\Debug\ConsoleAppAssignment3.exe.config
+C:\Users\abdul\source\repos\ConsoleAppAssignment3\ConsoleAppAssignment3\bin\Debug\ConsoleAppAssignment3.exe
+C:\Users\abdul\source\repos\ConsoleAppAssignment3\ConsoleAppAssignment3\bin\Debug\ConsoleAppAssignment3.pdb
+C:\Users\abdul\source\repos\ConsoleAppAssignment3\ConsoleAppAssignment3\obj\Debug\ConsoleAppAssignment3.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\ConsoleAppAssignment3\ConsoleAppAssignment3\obj\Debug\ConsoleAppAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\ConsoleAppAssignment3\ConsoleAppAssignment3\obj\Debug\ConsoleAppAssignment3.exe
+C:\Users\abdul\source\repos\ConsoleAppAssignment3\ConsoleAppAssignment3\obj\Debug\ConsoleAppAssignment3.pdb
